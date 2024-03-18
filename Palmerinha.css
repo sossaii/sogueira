@@ -3,7 +3,14 @@
     padding: 0;
 }
 
+.rosaparaxoke{
+    color: white;
+}
 
-.canario{background-color: #424e61;
 
+.canario{
+    background-color: #424e61;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
