@@ -36,7 +36,13 @@ color: white;
     margin: 0 16px;
 }
 .foto-estudante{
-    width: 35%;
+    width: 45%;
+}
+.foto-pain{
+    width: 5%;
+}
+.icone{ 
+    width: 5%;
 }
 .pp{    
     padding: 15px 0;
