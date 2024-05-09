@@ -56,3 +56,8 @@ color: white;
 .texto{ 
     padding: 24px 0;
 }
+
+.estudantetodos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
